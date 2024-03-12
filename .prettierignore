@@ -1,0 +1,4 @@
+core/configs/
+public/
+app/vendors/
+*.ejs
